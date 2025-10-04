@@ -1,0 +1,15 @@
+D:\Project_Structure\DomainLayer\bin\Debug\net9.0\DomainLayer.deps.json
+D:\Project_Structure\DomainLayer\bin\Debug\net9.0\DomainLayer.dll
+D:\Project_Structure\DomainLayer\bin\Debug\net9.0\DomainLayer.pdb
+D:\Project_Structure\DomainLayer\bin\Debug\net9.0\Core.dll
+D:\Project_Structure\DomainLayer\bin\Debug\net9.0\Core.pdb
+D:\Project_Structure\DomainLayer\obj\Debug\net9.0\DomainLayer.csproj.AssemblyReference.cache
+D:\Project_Structure\DomainLayer\obj\Debug\net9.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_Structure\DomainLayer\obj\Debug\net9.0\DomainLayer.AssemblyInfoInputs.cache
+D:\Project_Structure\DomainLayer\obj\Debug\net9.0\DomainLayer.AssemblyInfo.cs
+D:\Project_Structure\DomainLayer\obj\Debug\net9.0\DomainLayer.csproj.CoreCompileInputs.cache
+D:\Project_Structure\DomainLayer\obj\Debug\net9.0\DomainLa.5E103439.Up2Date
+D:\Project_Structure\DomainLayer\obj\Debug\net9.0\DomainLayer.dll
+D:\Project_Structure\DomainLayer\obj\Debug\net9.0\refint\DomainLayer.dll
+D:\Project_Structure\DomainLayer\obj\Debug\net9.0\DomainLayer.pdb
+D:\Project_Structure\DomainLayer\obj\Debug\net9.0\ref\DomainLayer.dll
