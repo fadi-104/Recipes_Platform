@@ -8,10 +8,12 @@ namespace Project_Structure.Middlewares
     {
         private readonly RequestDelegate _next;
         private HttpContext _httpContext;
+        private readonly ILogger<ExceptionHandlerMiddleware> _logger;
 
-        public ExceptionHandlerMiddleware(RequestDelegate next)
+        public ExceptionHandlerMiddleware(RequestDelegate next, ILogger<ExceptionHandlerMiddleware> logger)
         {
             _next = next;
+            _logger = logger;
         }
 
         public async Task Invoke(HttpContext httpContext)
@@ -34,6 +36,8 @@ namespace Project_Structure.Middlewares
             {
                 await HandleApiException(ex);
             }
+
+            _logger.LogError(ex, "حدث خطاأ !!!!");
         }
 
         public void SetStatusCode(Exception ex)

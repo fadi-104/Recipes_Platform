@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Microsoft.EntityFrameworkCore.Storage;
+
 
 namespace DataAccessLayer.BaseRepository
 {
@@ -14,6 +11,7 @@ namespace DataAccessLayer.BaseRepository
         Task<int> CountAsync();
         Task AddAsync(TEntity entity);
         Task UpdateAsync(TEntity entity);
-        Task<TEntity> DeleteAsync(TEntity entity);
+        Task DeleteAsync(TEntity entity);
+        Task<IDbContextTransaction> BeginTransactionAsync();
     }
 }

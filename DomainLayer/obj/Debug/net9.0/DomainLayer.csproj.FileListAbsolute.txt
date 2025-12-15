@@ -13,3 +13,4 @@ D:\Project_Structure\DomainLayer\obj\Debug\net9.0\DomainLayer.dll
 D:\Project_Structure\DomainLayer\obj\Debug\net9.0\refint\DomainLayer.dll
 D:\Project_Structure\DomainLayer\obj\Debug\net9.0\DomainLayer.pdb
 D:\Project_Structure\DomainLayer\obj\Debug\net9.0\ref\DomainLayer.dll
+D:\Project_Structure\DomainLayer\obj\Debug\net9.0\DomainLayer.sourcelink.json

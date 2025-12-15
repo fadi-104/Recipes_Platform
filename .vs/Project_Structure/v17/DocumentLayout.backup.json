@@ -3,72 +3,12 @@
   "WorkspaceRootPath": "D:\\Project_Structure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A695C50F-21E9-4C5B-8545-5A1A2FF11D75}|Core\\Core.csproj|d:\\project_structure\\core\\model\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A695C50F-21E9-4C5B-8545-5A1A2FF11D75}|Core\\Core.csproj|solutionrelative:core\\model\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A695C50F-21E9-4C5B-8545-5A1A2FF11D75}|Core\\Core.csproj|d:\\project_structure\\core\\model\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A695C50F-21E9-4C5B-8545-5A1A2FF11D75}|Core\\Core.csproj|solutionrelative:core\\model\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A695C50F-21E9-4C5B-8545-5A1A2FF11D75}|Core\\Core.csproj|d:\\project_structure\\core\\model\\tableoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A695C50F-21E9-4C5B-8545-5A1A2FF11D75}|Core\\Core.csproj|solutionrelative:core\\model\\tableoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A695C50F-21E9-4C5B-8545-5A1A2FF11D75}|Core\\Core.csproj|d:\\project_structure\\core\\exceptions\\servererrorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A695C50F-21E9-4C5B-8545-5A1A2FF11D75}|Core\\Core.csproj|solutionrelative:core\\exceptions\\servererrorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A695C50F-21E9-4C5B-8545-5A1A2FF11D75}|Core\\Core.csproj|d:\\project_structure\\core\\exceptions\\nopermissionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A695C50F-21E9-4C5B-8545-5A1A2FF11D75}|Core\\Core.csproj|solutionrelative:core\\exceptions\\nopermissionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A695C50F-21E9-4C5B-8545-5A1A2FF11D75}|Core\\Core.csproj|d:\\project_structure\\core\\exceptions\\noauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A695C50F-21E9-4C5B-8545-5A1A2FF11D75}|Core\\Core.csproj|solutionrelative:core\\exceptions\\noauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A695C50F-21E9-4C5B-8545-5A1A2FF11D75}|Core\\Core.csproj|d:\\project_structure\\core\\exceptions\\datavalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A695C50F-21E9-4C5B-8545-5A1A2FF11D75}|Core\\Core.csproj|solutionrelative:core\\exceptions\\datavalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A695C50F-21E9-4C5B-8545-5A1A2FF11D75}|Core\\Core.csproj|d:\\project_structure\\core\\exceptions\\datanotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A695C50F-21E9-4C5B-8545-5A1A2FF11D75}|Core\\Core.csproj|solutionrelative:core\\exceptions\\datanotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A695C50F-21E9-4C5B-8545-5A1A2FF11D75}|Core\\Core.csproj|d:\\project_structure\\core\\exceptions\\baseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A695C50F-21E9-4C5B-8545-5A1A2FF11D75}|Core\\Core.csproj|solutionrelative:core\\exceptions\\baseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BB5E247-FF49-4BA5-9960-D5CEC89971A2}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\project_structure\\businesslogiclayer\\mapper\\generalprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BB5E247-FF49-4BA5-9960-D5CEC89971A2}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\mapper\\generalprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA2B6883-CA89-492C-B7F9-3783742D7DC2}|Project_Structure\\Project_Structure.csproj|d:\\project_structure\\project_structure\\project_structure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DA2B6883-CA89-492C-B7F9-3783742D7DC2}|Project_Structure\\Project_Structure.csproj|solutionrelative:project_structure\\project_structure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34562E39-DD92-4EEF-9A01-25B73751BBB2}|DataAccessLayer\\DataAccessLayer.csproj|d:\\project_structure\\dataaccesslayer\\baserepository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34562E39-DD92-4EEF-9A01-25B73751BBB2}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\baserepository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BB5E247-FF49-4BA5-9960-D5CEC89971A2}|BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\project_structure\\businesslogiclayer\\services\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB5E247-FF49-4BA5-9960-D5CEC89971A2}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DA2B6883-CA89-492C-B7F9-3783742D7DC2}|Project_Structure\\Project_Structure.csproj|d:\\project_structure\\project_structure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA2B6883-CA89-492C-B7F9-3783742D7DC2}|Project_Structure\\Project_Structure.csproj|solutionrelative:project_structure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34562E39-DD92-4EEF-9A01-25B73751BBB2}|DataAccessLayer\\DataAccessLayer.csproj|d:\\project_structure\\dataaccesslayer\\baserepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34562E39-DD92-4EEF-9A01-25B73751BBB2}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\baserepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16F872DC-0024-478B-ABC1-0F358846776A}|DomainLayer\\DomainLayer.csproj|d:\\project_structure\\domainlayer\\entites\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16F872DC-0024-478B-ABC1-0F358846776A}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\entites\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA2B6883-CA89-492C-B7F9-3783742D7DC2}|Project_Structure\\Project_Structure.csproj|d:\\project_structure\\project_structure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DA2B6883-CA89-492C-B7F9-3783742D7DC2}|Project_Structure\\Project_Structure.csproj|solutionrelative:project_structure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34562E39-DD92-4EEF-9A01-25B73751BBB2}|DataAccessLayer\\DataAccessLayer.csproj|d:\\project_structure\\dataaccesslayer\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34562E39-DD92-4EEF-9A01-25B73751BBB2}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,221 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PagedResponse.cs",
-              "DocumentMoniker": "D:\\Project_Structure\\Core\\Model\\PagedResponse.cs",
-              "RelativeDocumentMoniker": "Core\\Model\\PagedResponse.cs",
-              "ToolTip": "D:\\Project_Structure\\Core\\Model\\PagedResponse.cs",
-              "RelativeToolTip": "Core\\Model\\PagedResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T18:13:00.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TableOptions.cs",
-              "DocumentMoniker": "D:\\Project_Structure\\Core\\Model\\TableOptions.cs",
-              "RelativeDocumentMoniker": "Core\\Model\\TableOptions.cs",
-              "ToolTip": "D:\\Project_Structure\\Core\\Model\\TableOptions.cs",
-              "RelativeToolTip": "Core\\Model\\TableOptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T18:11:34.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ApiResponse.cs",
-              "DocumentMoniker": "D:\\Project_Structure\\Core\\Model\\ApiResponse.cs",
-              "RelativeDocumentMoniker": "Core\\Model\\ApiResponse.cs",
-              "ToolTip": "D:\\Project_Structure\\Core\\Model\\ApiResponse.cs",
-              "RelativeToolTip": "Core\\Model\\ApiResponse.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T18:03:44.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NoAuthorizedException.cs",
-              "DocumentMoniker": "D:\\Project_Structure\\Core\\Exceptions\\NoAuthorizedException.cs",
-              "RelativeDocumentMoniker": "Core\\Exceptions\\NoAuthorizedException.cs",
-              "ToolTip": "D:\\Project_Structure\\Core\\Exceptions\\NoAuthorizedException.cs",
-              "RelativeToolTip": "Core\\Exceptions\\NoAuthorizedException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T17:57:59.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DataValidationException.cs",
-              "DocumentMoniker": "D:\\Project_Structure\\Core\\Exceptions\\DataValidationException.cs",
-              "RelativeDocumentMoniker": "Core\\Exceptions\\DataValidationException.cs",
-              "ToolTip": "D:\\Project_Structure\\Core\\Exceptions\\DataValidationException.cs",
-              "RelativeToolTip": "Core\\Exceptions\\DataValidationException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T17:56:38.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NoPermissionException.cs",
-              "DocumentMoniker": "D:\\Project_Structure\\Core\\Exceptions\\NoPermissionException.cs",
-              "RelativeDocumentMoniker": "Core\\Exceptions\\NoPermissionException.cs",
-              "ToolTip": "D:\\Project_Structure\\Core\\Exceptions\\NoPermissionException.cs",
-              "RelativeToolTip": "Core\\Exceptions\\NoPermissionException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T17:57:24.065Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ServerErrorException.cs",
-              "DocumentMoniker": "D:\\Project_Structure\\Core\\Exceptions\\ServerErrorException.cs",
-              "RelativeDocumentMoniker": "Core\\Exceptions\\ServerErrorException.cs",
-              "ToolTip": "D:\\Project_Structure\\Core\\Exceptions\\ServerErrorException.cs",
-              "RelativeToolTip": "Core\\Exceptions\\ServerErrorException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T17:58:24.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DataNotFoundException.cs",
-              "DocumentMoniker": "D:\\Project_Structure\\Core\\Exceptions\\DataNotFoundException.cs",
-              "RelativeDocumentMoniker": "Core\\Exceptions\\DataNotFoundException.cs",
-              "ToolTip": "D:\\Project_Structure\\Core\\Exceptions\\DataNotFoundException.cs",
-              "RelativeToolTip": "Core\\Exceptions\\DataNotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T17:56:04.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BaseException.cs",
-              "DocumentMoniker": "D:\\Project_Structure\\Core\\Exceptions\\BaseException.cs",
-              "RelativeDocumentMoniker": "Core\\Exceptions\\BaseException.cs",
-              "ToolTip": "D:\\Project_Structure\\Core\\Exceptions\\BaseException.cs",
-              "RelativeToolTip": "Core\\Exceptions\\BaseException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T17:53:52.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GeneralProfile.cs",
-              "DocumentMoniker": "D:\\Project_Structure\\BusinessLogicLayer\\Mapper\\GeneralProfile.cs",
-              "RelativeDocumentMoniker": "BusinessLogicLayer\\Mapper\\GeneralProfile.cs",
-              "ToolTip": "D:\\Project_Structure\\BusinessLogicLayer\\Mapper\\GeneralProfile.cs",
-              "RelativeToolTip": "BusinessLogicLayer\\Mapper\\GeneralProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T19:58:27.446Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "D:\\Project_Structure\\DomainLayer\\Entites\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "DomainLayer\\Entites\\BaseEntity.cs",
-              "ToolTip": "D:\\Project_Structure\\DomainLayer\\Entites\\BaseEntity.cs",
-              "RelativeToolTip": "DomainLayer\\Entites\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T19:28:44.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Project_Structure\\Project_Structure\\Program.cs",
               "RelativeDocumentMoniker": "Project_Structure\\Program.cs",
               "ToolTip": "D:\\Project_Structure\\Project_Structure\\Program.cs",
               "RelativeToolTip": "Project_Structure\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAQwIwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T19:24:19.77Z"
+              "WhenOpened": "2025-11-21T15:32:45.901Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Project_Structure\\Project_Structure\\appsettings.json",
-              "RelativeDocumentMoniker": "Project_Structure\\appsettings.json",
-              "ToolTip": "D:\\Project_Structure\\Project_Structure\\appsettings.json",
-              "RelativeToolTip": "Project_Structure\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-28T19:23:59.588Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\Project_Structure\\DataAccessLayer\\BaseRepository\\IRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\BaseRepository\\IRepository.cs",
-              "ToolTip": "D:\\Project_Structure\\DataAccessLayer\\BaseRepository\\IRepository.cs",
-              "RelativeToolTip": "DataAccessLayer\\BaseRepository\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Project_Structure\\BusinessLogicLayer\\Services\\UserService\\UserService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\UserService\\UserService.cs",
+              "ToolTip": "D:\\Project_Structure\\BusinessLogicLayer\\Services\\UserService\\UserService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\UserService\\UserService.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAA0wJgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T19:23:19.473Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "D:\\Project_Structure\\DataAccessLayer\\BaseRepository\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\BaseRepository\\GenericRepository.cs",
-              "ToolTip": "D:\\Project_Structure\\DataAccessLayer\\BaseRepository\\GenericRepository.cs",
-              "RelativeToolTip": "DataAccessLayer\\BaseRepository\\GenericRepository.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAIwDoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T19:22:34.214Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Project_Structure\\DataAccessLayer\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Project_Structure\\DataAccessLayer\\ApplicationDbContext.cs",
-              "RelativeToolTip": "DataAccessLayer\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-28T19:19:59.284Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Project_Structure.csproj",
-              "DocumentMoniker": "D:\\Project_Structure\\Project_Structure\\Project_Structure.csproj",
-              "RelativeDocumentMoniker": "Project_Structure\\Project_Structure.csproj",
-              "ToolTip": "D:\\Project_Structure\\Project_Structure\\Project_Structure.csproj",
-              "RelativeToolTip": "Project_Structure\\Project_Structure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-28T19:13:19.137Z"
+              "WhenOpened": "2025-11-03T11:57:09.394Z",
+              "EditorCaption": ""
             }
           ]
         }

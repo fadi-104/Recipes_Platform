@@ -17,3 +17,4 @@ D:\Project_Structure\DataAccessLayer\obj\Debug\net9.0\refint\DataAccessLayer.dll
 D:\Project_Structure\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.pdb
 D:\Project_Structure\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.genruntimeconfig.cache
 D:\Project_Structure\DataAccessLayer\obj\Debug\net9.0\ref\DataAccessLayer.dll
+D:\Project_Structure\DataAccessLayer\obj\Debug\net9.0\DataAccessLayer.sourcelink.json

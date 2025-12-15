@@ -11,8 +11,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Requests\" />
-    <Folder Include="Responses\" />
+    <PackageReference Include="FluentValidation" Version="12.0.0" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="12.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="9.0.9" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="9.0.9" />
   </ItemGroup>
 
 </Project>
